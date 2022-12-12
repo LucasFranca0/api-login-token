@@ -9,7 +9,6 @@ Aplicação para realizar login e cadastramentos de usuários. Leia a documenta�
 - [x] Autenticação por token
 - [x] Login com email e senha
 - [x] Conexão com banco de dados MySQL
-- [x] Alterar usuário
 - [x] Verificação de email com expiração
 
 ## Tecnologias
